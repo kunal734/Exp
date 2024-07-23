@@ -1,0 +1,4 @@
+package com.tekpyramid.supportportal.dao;
+
+public interface TopicDao {
+}

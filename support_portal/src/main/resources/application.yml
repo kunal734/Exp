@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: assets
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: support_portal
+      auto-index-creation: true
